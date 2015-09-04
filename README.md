@@ -1,2 +1,2 @@
-# opsworks-solr-read
-Opsworks Cookbook for Installing Solr Read Replicas 
+# opsworks-rabbitmq
+Opsworks Cookbook for Installing RabbitMQ Cluster

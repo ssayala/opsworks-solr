@@ -1,11 +1,11 @@
-rabbitmq-cookbook CHANGELOG
+opsworks-solr CHANGELOG
 ===========================
 
-This file is used to list changes made in each version of the rabbitmq-cookbook cookbook.
+This file is used to list changes made in each version of the opsworks-solr cookbook.
 
 0.1.0
 -----
-- [your_name] - Initial release of rabbitmq-cookbook
+- [your_name] - Initial release of opsworks-solr
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
