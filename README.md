@@ -1,2 +1,2 @@
-# opsworks-rabbitmq
-Opsworks Cookbook for Installing RabbitMQ Cluster
+# opsworks-solr
+Opsworks Cookbook for Installing solr
